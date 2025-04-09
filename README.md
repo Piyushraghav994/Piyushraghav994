@@ -1,4 +1,4 @@
-[![MasterHead](https://pin.it/2xyQgBfqw)](https://Piyushraghav994)
+[![MasterHead](https://pin.it/76ij1vaDn)](https://Piyushraghav994)
 <!--https://user-images.githubusercontent.com/74038190/215768208-3bf3dda8-eeea-40ee-a58b-f5ac529685bf.gif-->
 
 <!--https://media1.tenor.com/m/C1r3YSmu4IQAAAAC/coding.gif-->
