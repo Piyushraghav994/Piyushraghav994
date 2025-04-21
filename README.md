@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyushraghv994&label=Profile%20views&color=0e75b6&style=flat" alt="piyushraghv994" /> </p>
 
-- 🌱 I’m currently learning **DSA with C++**
+- 🌱 I’m currently learning **DSA with JAVA**
 
 - 📫 How to reach me **Piyushraghav994@gmail.com**
 
