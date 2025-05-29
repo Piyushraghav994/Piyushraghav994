@@ -3,12 +3,12 @@
 
 <!--https://media1.tenor.com/m/C1r3YSmu4IQAAAAC/coding.gif-->
 <h1 align="center">Hi 👋,its me Piyush Raghav</h1>
-<h3 align="center">Here’s a more engaging and energetic version of your intro:  
+<h3 align="center">  
 
-**🚀 "Code by day, debug by night!**  
-I’m a **BTech CSE** student on a mission to turn caffeine into clean code. When I’m not buried in algorithms, I’m building projects, pushing commits (and occasionally pushing my limits) on **GitHub**. Let’s build something awesome!"**  
+📚👨‍💻"Code by day, debug by night! 📚👨‍💻 
 
-Want it **shorter/funnier/tech-heavy?** Let me know! 😄</h3>
+I’m a Computer Science Engineering student👩‍💻 on a mission to turn caffeine into clean code.<br> When I’m not buried in algorithms,💡 I’m building projects, pushing commits (and occasionally pushing my limits) on GitHub. Let’s build something awesome!"  <br>🌟 Let's connect, collaborate, and code for a brighter digital future! ✨
+</h3>
 <img align="right" alt"coding" width="400" src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyushraghv994&label=Profile%20views&color=0e75b6&style=flat" alt="piyushraghv994" /> </p>
