@@ -1,4 +1,4 @@
-![logo](https://github.com/Piyushraghav02112002/Piyushraghav02112002/blob/main/github-banner-v7.svg)
+![logo](https://github.com/Piyushraghav02112002/Piyushraghav994/blob/main/github-banner-v7.svg)
 <!--[![MasterHead](https://user-images.githubusercontent.com/74038190/215768208-3bf3dda8-eeea-40ee-a58b-f5ac529685bf.gif)](https://Piyushraghav994)
 <!--https://user-images.githubusercontent.com/74038190/215768208-3bf3dda8-eeea-40ee-a58b-f5ac529685bf.gif-->
 # 💫 About Me:
@@ -17,14 +17,14 @@
 </div>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Piyushraghav1102&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Piyushraghav1102&theme=nightowl&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api?username=Piyushraghav994&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Piyushraghav994&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Piyushraghav1102&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Piyushraghav1102&limit=5&theme=nightowl&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Piyushraghav994&limit=5&theme=nightowl&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
