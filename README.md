@@ -1,4 +1,4 @@
-![logo](https://github.com/Piyushraghav02112002/Piyushraghav994/blob/main/github-banner-v7.svg)
+![logo](https://github.com/Piyushraghav994/Piyushraghav994/blob/main/github-banner-v7.svg)
 <!--[![MasterHead](https://user-images.githubusercontent.com/74038190/215768208-3bf3dda8-eeea-40ee-a58b-f5ac529685bf.gif)](https://Piyushraghav994)
 <!--https://user-images.githubusercontent.com/74038190/215768208-3bf3dda8-eeea-40ee-a58b-f5ac529685bf.gif-->
 # 💫 About Me:
