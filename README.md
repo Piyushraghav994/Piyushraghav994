@@ -1,37 +1,30 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/215768208-3bf3dda8-eeea-40ee-a58b-f5ac529685bf.gif)](https://Piyushraghav994)
+![logo](https://github.com/Piyushraghav02112002/Piyushraghav02112002/blob/main/github-banner-v7.svg)
+<!--[![MasterHead](https://user-images.githubusercontent.com/74038190/215768208-3bf3dda8-eeea-40ee-a58b-f5ac529685bf.gif)](https://Piyushraghav994)
 <!--https://user-images.githubusercontent.com/74038190/215768208-3bf3dda8-eeea-40ee-a58b-f5ac529685bf.gif-->
+# 💫 About Me:
+### Hi, I'm Piyush Raghav 👋<br>## Java Backend Developer | Spring Boot • Spring Security • REST APIs<br><br>I'm a final-year Computer Science (AI) student, building secure and scalable backend systems with **Java** and **Spring Boot**. I focus on writing clean, production-style APIs — from REST endpoints and JPA/Hibernate data layers, to authentication flows powered by **Spring Security** and **JWT**.<br><br># 💻 Tech Stack:
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 
-<!--https://media1.tenor.com/m/C1r3YSmu4IQAAAAC/coding.gif-->
-<h1 align="center">Hi 👋,its me Piyush Raghav</h1>
-<h3 align="center">  
+🚀 **Projects I've built:**<br>- **[PrepTrack](#)** — an Interview Intelligence Platform with JWT + refresh token auth, Swagger-documented APIs, deployed on Vercel + Render<br>- **[Lovable AI](#)** — a SaaS platform covering user management and core product workflows<br>- **[CareerSphere](#)** — a LinkedIn-inspired networking platform, built to practice social-feature architecture at scale<br><br>📚 **Currently:**📚 <br>- Deep in a structured DSA roadmap (Java, LeetCode) — Trees & Graphs<br>- Learning advanced concepts of Spring Boot<br><br>🎯 **Looking for:** Java backend developer roles/internships where I can contribute to real systems and keep growing as an engineer.<br><br>📫 **Connect with me:** [LinkedIn](#)
 
-📚👨‍💻"Code by day, debug by night! 📚👨‍💻 
 
-I’m a Computer Science Engineering student👩‍💻 on a mission to turn caffeine into clean code.<br> When I’m not buried in algorithms,💡 I’m building projects, pushing commits (and occasionally pushing my limits) on GitHub. Let’s build something awesome!"  <br>🌟 Let's connect, collaborate, and code for a brighter digital future! ✨
-</h3>
-<img align="right" alt"coding" width="400" src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263">
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Piyushraghavmusic) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/piyushraghav02) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@piyushraghavhealing) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:piyushraghav994@gmail.com) 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=piyushraghv994&label=Profile%20views&color=0e75b6&style=flat" alt="piyushraghv994" /> </p>
 
-- 🌱 I’m currently learning **DSA with JAVA**
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
-- 📫 How to reach me **Piyushraghav994@gmail.com**
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Piyushraghav1102&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Piyushraghav1102&theme=nightowl&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Piyushraghav1102&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- 📄 Know about my experiences [Ex-Intern at iNeuron | Ex-Intern at EiSystems | Python developer | TEDx Performer (Singer/Musician)]
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/piyushraghav2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/piyushraghav2002" height="30" width="40" /></a>
-<a href="https://instagram.com/piyushraghav02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="piyushraghav02" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://youtube.com/@piyushraghav1782?si=hrmokggo0edhf10y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@piyushraghav1782?si=hrmokggo0edhf10y" height="30" width="40" /></a>
-</p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Piyushraghav1102&limit=5&theme=nightowl&combine_all_yearly_contributions=true)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=piyushraghav994&show_icons=true&locale=en&layout=compact" alt="piyushraghav994" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=piyushraghav994&show_icons=true&locale=en" alt="piyushraghav994" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=piyushraghav994&" alt="piyushraghav994" /></p>
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
